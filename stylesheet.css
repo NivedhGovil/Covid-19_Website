@@ -1,0 +1,31 @@
+body {
+  background-color: #aad5f0;
+}
+
+h1 {
+  font-family: "Garamond", serif;   /* graceful, classic font */
+  color: #4b0082;                   /* rich indigo for elegance */
+}
+
+a:link {
+  color: blue;       /* normal link color */
+  text-decoration: none; /* removes underline */
+}
+
+a:visited {
+  color: purple;     /* after you click the link */
+}
+
+a:hover {
+  color: red;        /* when mouse is over the link */
+}
+
+a:active {
+  color: green;      /* when you click the link */
+}
+
+h2 {
+  font-family: "Garamond", serif;   /* graceful, classic font */
+  color: #8a1538; }
+
+
